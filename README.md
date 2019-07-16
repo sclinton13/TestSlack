@@ -1,2 +1,0 @@
-# TestSlack
-Slack Theme
